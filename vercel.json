@@ -1,6 +1,6 @@
 {
   "functions": {
-    "/*.js": {
+    "*.js": {
       "runtime": "nodejs@20.9.0"
     }
   },
