@@ -1,7 +1,7 @@
 {
   "functions": {
     "index.js": {
-      "runtime": "nodejs"
+      "runtime": "nodejs@20.9.0"
     }
   },
   "rewrites": [
