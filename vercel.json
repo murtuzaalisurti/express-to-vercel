@@ -1,4 +1,9 @@
 {
+  "functions": {
+    "/*.js": {
+      "runtime": "nodejs@20.9.0"
+    }
+  },
   "rewrites": [
     {
       "source": "/(.*)",
